@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\GitHub\so-thu-sai-gon-CaoHong96\Sở thú SG\Sở thú SG\bin\Debug\Sở thú SG.exe
+C:\Users\Acer\Documents\GitHub\so-thu-sai-gon-CaoHong96\Sở thú SG\Sở thú SG\bin\Debug\Sở thú SG.pdb
+C:\Users\Acer\Documents\GitHub\so-thu-sai-gon-CaoHong96\Sở thú SG\Sở thú SG\obj\x86\Debug\Sở_thú_SG.Form1.resources
+C:\Users\Acer\Documents\GitHub\so-thu-sai-gon-CaoHong96\Sở thú SG\Sở thú SG\obj\x86\Debug\Sở_thú_SG.Properties.Resources.resources
+C:\Users\Acer\Documents\GitHub\so-thu-sai-gon-CaoHong96\Sở thú SG\Sở thú SG\obj\x86\Debug\Sở thú SG.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\GitHub\so-thu-sai-gon-CaoHong96\Sở thú SG\Sở thú SG\obj\x86\Debug\Sở thú SG.exe
+C:\Users\Acer\Documents\GitHub\so-thu-sai-gon-CaoHong96\Sở thú SG\Sở thú SG\obj\x86\Debug\Sở thú SG.pdb
+C:\Users\Acer\Documents\GitHub\so-thu-sai-gon-CaoHong96\Sở thú SG\Sở thú SG\obj\x86\Debug\Sở thú SG.csprojResolveAssemblyReference.cache
